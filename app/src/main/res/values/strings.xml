@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="start_quiz">Start Quiz</string>
+    <string name="title_activity_quiz_question">QuizQuestionActivity</string>
+    <string name="next_quiz">NEXT</string>
+    <string name="finish_test">FINISH</string>
+    <string name="title_activity_quiz_answer_result">QuizAnswerResultActivity</string>
+    <string name="quiz_size">questions amount</string>
+    <string name="safe_mode">Safe Mode</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+</resources>
